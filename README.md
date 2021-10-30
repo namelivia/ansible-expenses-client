@@ -1,4 +1,4 @@
-# Itemtree client Ansible role
+# Expenses client Ansible role
 
 ## This is a WIP
 
