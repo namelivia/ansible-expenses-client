@@ -11,7 +11,7 @@ collections:
   - community.docker
 
 roles:
-  - src: https://github.com/namelivia/namelivia.expenses
+  - src: https://github.com/namelivia/namelivia.expenses-client
 ```
 
 ## Required variables
